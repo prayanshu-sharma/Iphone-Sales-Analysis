@@ -1,6 +1,12 @@
 # Iphone-Sales-Analysis
 
+Level-beginner
 
+Tool-Jupyter Notebook
+
+Library-Pandas,Seaborn,Matplotlib
+
+Python project for beginners-
 
 # Steps-
 
