@@ -19,3 +19,6 @@ Python project for beginners-
 4-Data cleaning and Transformation
 
 5-Data analysis
+
+# Objective-
+Analyze Iphone sales data to improve customer experience and sales and also increase revenue based on customer and sales.
